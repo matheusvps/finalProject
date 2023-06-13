@@ -1,0 +1,15 @@
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/models/Student.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/control/CorsFilter.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/models/Employee.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/service/EmployeeService.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/service/TeacherService.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/LaudelinoApplication.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/repositories/StudentRepository.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/repositories/EmployeeRepository.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/control/StudentControl.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/control/TeacherControl.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/repositories/JpaRepository.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/models/Teacher.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/service/StudentService.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/repositories/TeacherRepository.java
+/home/exati/Documentos/laudelino/newFinal/backend/laudelino/src/main/java/com/laudelino/laudelino/control/EmployeeControl.java
